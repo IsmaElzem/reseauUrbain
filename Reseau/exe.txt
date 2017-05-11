@@ -1,0 +1,5 @@
+
+javac -classpath ./src/ ./src/test/Main.java -d ./bin/    
+
+java -classpath ./bin test.Main
+
